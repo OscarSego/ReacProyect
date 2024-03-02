@@ -6,7 +6,7 @@ function Navigation() {
     <div>
       <ul className="flex">
         <li className="mr-4"><Link to="/"> Inicio </Link></li>
-        <li className="mr-4"> Acerca de </li>
+        <li className="mr-4"><Link to="/acercaDe"> Acerca de </Link></li>
         <li><Link to="/contacto">  Contacto </Link></li>
       </ul>
     </div>
